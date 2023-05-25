@@ -20,3 +20,4 @@ At present there are examples for:
     
 Some of the samples use other elements of GTK+3 by necessity or as a placeholder (where interaction is absent).  For example, GTKWindow, various containers and widgets may be used.   Specifically, a TextView or Entry may be present to reflect selections made from the primary objects of the sample.
 
+Note that the png files, except for the rff_logo.png, are used in the Assistant example.  The rff_logo.png is used in the About example.
